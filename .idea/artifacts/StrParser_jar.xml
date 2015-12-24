@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StrParser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StrParser_jar</output-path>
+    <root id="archive" name="StrParser.jar">
+      <element id="module-output" name="StrParser" />
+    </root>
+  </artifact>
+</component>
